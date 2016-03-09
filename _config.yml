@@ -1,0 +1,55 @@
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: cotolabs
+description: |
+  So lean we might as well be a vegan startup.
+owner: cotolabs C.A # or company name
+first_published: 2016 # if migrating another site, the year of your first publish
+email: ricks@cotolabs.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://cotolabs.com" # the base hostname & protocol for your site
+social:
+  twitter: https://twitter.com/cotolabs
+  github: https://github.com/coderick
+  facebook-official: https://facebook.com/cotolabs
+  #email: /contact/
+  #flickr:
+  #instagram:
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  pied-piper: wut
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
